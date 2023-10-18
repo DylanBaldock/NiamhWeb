@@ -2,7 +2,6 @@
   padding: 60px;
   background: #e13a44;
   color: white;
-  font-size: 30px;
   font-family: sans-serif;
   display: flex;
   align-items: center;
@@ -11,7 +10,6 @@
 .nav {
   padding: 60px;
   color: white;
-  font-size: 20px;
   font-family: sans-serif;
   display: flex;
   gap: lem;
@@ -20,7 +18,9 @@
 }
 
 body {
-background-color: #4999a3;
+  background-color: white;
+  font-family: sans-serif;
+  color: black;
 }
 
 img { 
