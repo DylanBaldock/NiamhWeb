@@ -5,6 +5,9 @@
   color: white;
   font-size: 30px;
   font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  gap: lem;
 }
 .nav-links {
   padding: 60px;
