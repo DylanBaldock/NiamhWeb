@@ -9,12 +9,15 @@
   align-items: center;
   gap: lem;
 }
-.nav-links {
+.nav {
   padding: 60px;
   text-align: right;
   color: white;
   font-size: 20px;
   font-family: sans-serif;
+  display: flex;
+  gap: lem;
+  align-items: center; margin-left: auto;
 }
 
 body {
