@@ -1,6 +1,5 @@
 .header {
   padding: 60px;
-  text-align: left;
   background: #e13a44;
   color: white;
   font-size: 30px;
@@ -11,13 +10,13 @@
 }
 .nav {
   padding: 60px;
-  text-align: right;
   color: white;
   font-size: 20px;
   font-family: sans-serif;
   display: flex;
   gap: lem;
-  align-items: center; margin-left: auto;
+  align-items: center; 
+  margin-left: auto;
 }
 
 body {
