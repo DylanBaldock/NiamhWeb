@@ -4,9 +4,12 @@
   color: white;
   font-family: sans-serif;
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: lem;
+  gap: 1em;
+  text-align: center;
 }
+
 .nav {
   padding: 60px;
   color: white;
