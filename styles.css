@@ -20,6 +20,10 @@
   margin-left: auto;
 }
 
+.about_home {
+  float: left;
+}
+
 body {
   background-color: #f5f3f2;
   font-family: sans-serif;
