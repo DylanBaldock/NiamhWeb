@@ -20,6 +20,10 @@
   margin-left: auto;
 }
 
+.heading_1 {
+  float: right;
+}
+  
 .about_home {
   float: left;
 }
