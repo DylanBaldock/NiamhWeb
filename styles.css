@@ -21,7 +21,7 @@
 }
 
 .contact_links {
-  align-items: center;
+  text-align: center;
   gap: 1em;
   font-family: sans-serif;
 }
