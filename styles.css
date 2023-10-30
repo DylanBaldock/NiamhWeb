@@ -16,7 +16,7 @@
   font-family: sans-serif;
   display: flex;
   gap: lem;
-  align-items: right; 
+  text-align: right; 
   margin-left: auto;
 }
 
