@@ -27,6 +27,19 @@
   font-family: sans-serif;
 }
 
+.flex_container2 {
+  padding;: 15px;
+  display: flex;
+  flex-direction: row;
+  background: #D3D3D3;
+  flex: wrap;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
 .nav {
   padding: 20px;
   color: white;
