@@ -11,8 +11,9 @@
 }
 
 .flex-container {
-  display: flex; 
-  flex-flow: row wrap;
+  padding: 10px;
+  margin: 10px;
+  background: aqua;
 }
 
 .nav {
