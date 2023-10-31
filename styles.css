@@ -44,6 +44,21 @@
   padding: 10px;
 }
 
+.flex_container3 {
+  padding;: 15px;
+  display: flex;
+  flex-direction: row;
+  background: #D3D3D3;
+  flex: wrap;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  text-align: center;
+  font-family: sans-serif;
+  margin: 10px;
+  padding: 10px;
+}
+
 .nav {
   padding: 20px;
   color: white;
