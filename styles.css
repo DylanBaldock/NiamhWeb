@@ -15,9 +15,11 @@
   color: white;
   font-family: sans-serif;
   display: flex;
-  gap: lem;
+  gap: 1em;
   text-align: right; 
   margin-left: auto;
+  align-items: center;
+  
 }
 
 .contact_links {
