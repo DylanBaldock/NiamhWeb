@@ -14,9 +14,11 @@
   font-size:20px;
 }
 .flex_container {
+  padding;: 15px;
   display: flex;
   flex-direction: row;
   background: aqua;
+  color: #D3D3D3;
 }
 
 .nav {
